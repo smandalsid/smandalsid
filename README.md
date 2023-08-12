@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mandal</h1>
 <h3 align="center">An aspiring 4th Year undergrad student looking to explore myself in various domains and develop powerful solutions</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working on **image classification**
 
 - 💬 Ask me about **DSA, Django, C++, Python**
 
