@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mandal</h1>
 <h3 align="center">A software engineer looking to explore various domains, and technologies and develop powerful solutions</h3>
 
-- 🌱 I’m currently working on **Deep Learning**
+- 🌱 I’m currently working on **Professional Backend Development**
 
-- 💬 Ask me about **DSA, Django, C++, Python**
+- 💬 Ask me about **Django, C++, Python, DSA**
 
 - 📫 How to reach me **smandal.sid@gmail.com**
 
